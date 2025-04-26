@@ -1,0 +1,6 @@
+n = 7;
+if modulo(n, 2) == 0 then
+ disp("Even");
+else
+ disp("Odd");
+end
